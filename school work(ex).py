@@ -327,3 +327,9 @@ while num>0:
 print(even_sum)
 print(odd_sum)
 """
+#cheking even/odd
+num=int(input("Enter a number"))
+if num % 2 == 0:
+   print(f"{num} is an even number")
+else:
+   print(f"{num} is an odd number")

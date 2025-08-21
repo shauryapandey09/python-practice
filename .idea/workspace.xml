@@ -31,48 +31,48 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.Conditional expression(10).executor": "Run",
-    "Python.Logical operators.executor": "Run",
-    "Python.MATH 2.executor": "Run",
-    "Python.MATH 3.executor": "Run",
-    "Python.MATH.executor": "Run",
-    "Python.Madlibs game exercise.executor": "Run",
-    "Python.Python Calculator Ex(9).executor": "Run",
-    "Python.Typecasting.executor": "Run",
-    "Python.Useful string methods(11).executor": "Run",
-    "Python.collections(list, set and tuple).executor": "Run",
-    "Python.compound interest calculator.executor": "Run",
-    "Python.darshu.executor": "Run",
-    "Python.for loops(16).executor": "Run",
-    "Python.format specifiers.executor": "Run",
-    "Python.if statements(8).executor": "Run",
-    "Python.input(4).executor": "Run",
-    "Python.input.executor": "Run",
-    "Python.main(1).executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.nested loops(17).executor": "Run",
-    "Python.school work(ex).executor": "Run",
-    "Python.sdf.executor": "Run",
-    "Python.shopping cart program(19).executor": "Run",
-    "Python.string indexing(12).executor": "Run",
-    "Python.variable.executor": "Run",
-    "Python.while loops(14).executor": "Run",
-    "Python.while loops.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.Conditional expression(10).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Logical operators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MATH 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MATH 3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MATH.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Madlibs game exercise.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Python Calculator Ex(9).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Typecasting.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Useful string methods(11).executor&quot;: &quot;Run&quot;,
+    &quot;Python.collections(list, set and tuple).executor&quot;: &quot;Run&quot;,
+    &quot;Python.compound interest calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.darshu.executor&quot;: &quot;Run&quot;,
+    &quot;Python.for loops(16).executor&quot;: &quot;Run&quot;,
+    &quot;Python.format specifiers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.if statements(8).executor&quot;: &quot;Run&quot;,
+    &quot;Python.input(4).executor&quot;: &quot;Run&quot;,
+    &quot;Python.input.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main(1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.nested loops(17).executor&quot;: &quot;Run&quot;,
+    &quot;Python.school work(ex).executor&quot;: &quot;Run&quot;,
+    &quot;Python.sdf.executor&quot;: &quot;Run&quot;,
+    &quot;Python.shopping cart program(19).executor&quot;: &quot;Run&quot;,
+    &quot;Python.string indexing(12).executor&quot;: &quot;Run&quot;,
+    &quot;Python.variable.executor&quot;: &quot;Run&quot;,
+    &quot;Python.while loops(14).executor&quot;: &quot;Run&quot;,
+    &quot;Python.while loops.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -103,6 +103,7 @@
       <workItem from="1755705723870" duration="482000" />
       <workItem from="1755795077598" duration="232000" />
       <workItem from="1755795320001" duration="724000" />
+      <workItem from="1755799734090" duration="266000" />
     </task>
     <servers />
   </component>
